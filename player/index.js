@@ -22,11 +22,6 @@ Player.prototype.remove = function (amount) {
 // exports.add = Player.prototype.add;
 // exports.remove = Player.prototype.remove;
 
-var player = new Player();
-
-
-
-
-
+//var player = new Player();
 
 module.exports = Player;

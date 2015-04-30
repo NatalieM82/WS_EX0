@@ -41,3 +41,4 @@ var cbServer =  function (req,res) {
 var server = http.createServer(cbServer);
 
 server.listen(3000);
+console.log("listening on 3000!");
